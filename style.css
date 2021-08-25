@@ -119,13 +119,13 @@ p {
 .btn {
     color: #1a1829;
     font-size: 150px;
-    background: url("images/email.png");
+    background: url("email.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .btn:hover {
     font-size: 150px;
-    background-image: url("images/email-hover.png");
+    background-image: url("email-hover.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
