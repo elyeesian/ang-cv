@@ -2,6 +2,7 @@ div {
     border-radius: 25px;
     border-color: #141526;
     border-width: 50px;
+    width: 100%;
 }
 .top {
     background-color: #141526;
